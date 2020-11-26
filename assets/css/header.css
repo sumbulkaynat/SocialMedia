@@ -1,0 +1,15 @@
+header {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: palevioletred;
+  margin: auto; }
+  header li {
+    display: inline;
+    margin: 10px; }
+  header #header-name {
+    font-size: 30px;
+    margin: 10px; }
+  header #header-list {
+    text-transform: capitalize;
+    font-size: large; }

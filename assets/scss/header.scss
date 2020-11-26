@@ -1,0 +1,23 @@
+header{
+    height:10vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: palevioletred;
+    margin: auto;
+
+    li{
+        display: inline;
+        //background-color: bisque;
+        margin: 10px;
+    }
+    
+    #header-name{
+        font-size: 30px;
+        margin: 10px;
+    }
+
+    #header-list{
+        text-transform: capitalize;
+        font-size: large;
+    }
+}

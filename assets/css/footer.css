@@ -1,0 +1,14 @@
+footer {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: palevioletred; }
+  footer li {
+    display: inline;
+    margin: 10px; }
+  footer #footer-text {
+    font-size: 15px;
+    margin: 10px; }
+  footer #footer-list {
+    text-transform: capitalize;
+    font-size: large; }
